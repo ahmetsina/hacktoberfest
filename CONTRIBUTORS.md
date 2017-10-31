@@ -711,3 +711,8 @@ s in Computer Science
 - Place: Istanbul, Turkey
 - Bio: Software Developer
 - GitHub: [Ahmet Sina Ustem](https://github.com/ahmetsina)
+
+#### Name: [Huseyin Hasan](https://github.com/hsynchsn)
+- Place: Tekirdag, Turkey
+- Bio: Software Developer
+- GitHub: [Huseyin Hasan](https://github.com/hsynchsn)
